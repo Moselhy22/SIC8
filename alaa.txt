@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-Hi,I am Alaa
-=======
-
->>>>>>> 21df101 (aa)
 Hi,I am Alaa
