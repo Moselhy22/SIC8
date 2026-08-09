@@ -1,7 +1,7 @@
 
 listofnum = []
 for i in range(0,51):
-    if i % 2 == 0 :
+    if i % 2 == 0  and not i == 0 :
         print(i)
         listofnum.append(i)
     else:
